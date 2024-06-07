@@ -1264,6 +1264,7 @@ _stoe_unset() {
     unset MACHINE
     unset MACHINE_INIT
     unset TEMPLATECONF
+    unset TEMPLATECONF_relative
     unset _DL_CACHEPREFIX
     unset _SSTATE_CACHEPREFIX
     unset _NCPU
