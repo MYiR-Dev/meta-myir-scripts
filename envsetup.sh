@@ -16,7 +16,7 @@ _SUPPORTED_UBUNTU_RELEASE="20.04 22.04"
 # Set default layer root
 #
 if [ -z "$META_LAYER_ROOT" ]; then
-    _META_LAYER_ROOT=layers/meta-st
+    _META_LAYER_ROOT=layers/meta-myir
 else
     _META_LAYER_ROOT=$META_LAYER_ROOT
 fi
